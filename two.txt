@@ -2,3 +2,7 @@ Git is a distributed version control system.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 gitee
+test2
+git push gitee master
+
+git pull gitee master --allow-unrelated-histories
